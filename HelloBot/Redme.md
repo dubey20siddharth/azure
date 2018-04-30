@@ -3,7 +3,7 @@
 In this lab, you will build, a basic bot which always say “Hello bot”.
 
 ### Prerequisites
-This following software environment is needed for running this bot :
+The following software environment is needed for running this bot :
 
 ```
 1.Node.js
