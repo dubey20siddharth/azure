@@ -1,3 +1,4 @@
+
 # Hello Bot
 
 In this lab, you will build, a basic bot which always say “Hello bot”.
@@ -35,8 +36,13 @@ To check implementation of this lab please refer to the following file in HelloB
 
 ![adaptivecardbot_0](https://user-images.githubusercontent.com/31923904/39425015-f9250e9c-4c96-11e8-9636-f53ed8cc1a82.jpg)
 
+<<<<<<< HEAD:HelloBot/README.md
+2.Open command prompt (cmd) and set path to HelloBot folder then run HelloBot.js file using command below:
+
+=======
 2.Open command prompt (cmd) and set path to Basic Bots folder then run HelloBot.js file using command below:
 ```
+>>>>>>> 8fa955cd80553b3a20e9adf983a4a028de1e6644:HelloBot/Redme.md
                                node HelloBot.js.
 ```
 3.Start the Bot Framework Emulator and connect your bot and type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on “Connect” button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).
@@ -47,6 +53,8 @@ To check implementation of this lab please refer to the following file in HelloB
 
 ![adaptivecardbot_2](https://user-images.githubusercontent.com/31923904/39425418-01b55d80-4c99-11e8-9cec-93df3904a292.jpg)
                                     
+
+
 
 
 
