@@ -7,16 +7,16 @@ This following software environment is needed for running this bot :
 
 ```
 1.Node.js
-2.Microsoft BotFramework Emulator.
-3.SubLimeText Editor.
+2.Microsoft BotFramework Emulator
+3.SubLimeText Editor
 ```
 
 ### Collecting the keys
 
 Over the course of this lab, we will collect various keys. It is recommended that you save all of them in a text file, so you can easily access them throughout the workshop:
 ```
--Bot Framework App ID.
--Bot Framework App password.
+-Bot Framework App ID
+-Bot Framework App password
 ```
 
 ### Implementation
