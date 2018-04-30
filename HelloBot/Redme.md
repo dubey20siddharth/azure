@@ -1,6 +1,6 @@
 #Lab 1 :Hello Bot
 
-In this lab, you will build, a basic bot which always say ìHello botî.
+In this lab, you will build, a basic bot which always say ‚ÄúHello bot‚Äù.
 
 ### Prerequisites
 This following software environment is needed for running this bot :
@@ -14,8 +14,11 @@ This following software environment is needed for running this bot :
 ### Collecting the keys
 
 Over the course of this lab, we will collect various keys. It is recommended that you save all of them in a text file, so you can easily access them throughout the workshop.keys:
+
+```
 -Bot Framework App ID.
 -Bot Framework App password.
+```
 
 
 ### Implementation
@@ -30,18 +33,22 @@ To check implementation of this lab please refer to the following file in HelloB
 
 1. Open HelloBot.js file in SubLime Text Editor and provide Bot Framework App ID and Bot Framework App password in this section of code. (note : If you are working on local then there is no need to specify Bot Framework App ID and Bot Framework App password  ).
 
-![Sample Outcome](photos/HelloBot_0.jpg)
+![adaptivecardbot_0](https://user-images.githubusercontent.com/31923904/39425015-f9250e9c-4c96-11e8-9636-f53ed8cc1a82.jpg)
 
 2.Open command prompt (cmd) and set path to Basic Bots folder then run HelloBot.js file using command below:
-
+```
                                node HelloBot.js.
-
+```
 3.Start the Bot Framework Emulator and connect your bot. 
-  -Type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on ìConnectî button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).  
-![Sample Outcome](photos/HelloBot_1.jpg)
+  -Type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on ‚ÄúConnect‚Äù button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).
+  
+![adaptivecardbot_1](https://user-images.githubusercontent.com/31923904/39425391-db580692-4c98-11e8-9da8-5d5fc5fb4db4.jpg)
+
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
-![Sample Outcome](photos/HelloBot_2.jpg)
+
+![adaptivecardbot_2](https://user-images.githubusercontent.com/31923904/39425418-01b55d80-4c99-11e8-9cec-93df3904a292.jpg)
                                     
+
 
 
 
