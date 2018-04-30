@@ -1,4 +1,4 @@
-#Lab 1 :Hello Bot
+# Hello Bot
 
 In this lab, you will build, a basic bot which always say “Hello bot”.
 
@@ -39,8 +39,7 @@ To check implementation of this lab please refer to the following file in HelloB
 ```
                                node HelloBot.js.
 ```
-3.Start the Bot Framework Emulator and connect your bot. 
-  -Type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on “Connect” button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).
+3.Start the Bot Framework Emulator and connect your bot and type http://localhost:3978/api/messages into the address bar.(This is the default end point that your bot listens to when hosted locally).Click on “Connect” button.(note : If you are working on local then no need to specify Microsoft App ID and Microsoft App Password ).
   
 ![adaptivecardbot_1](https://user-images.githubusercontent.com/31923904/39425391-db580692-4c98-11e8-9da8-5d5fc5fb4db4.jpg)
 
